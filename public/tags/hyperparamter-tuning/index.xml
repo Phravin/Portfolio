@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyperparamter Tuning on Phravin Xaviour</title>
+    <link>http://localhost:1313/tags/hyperparamter-tuning/</link>
+    <description>Recent content in Hyperparamter Tuning on Phravin Xaviour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/hyperparamter-tuning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geothermal Temperature Prediction - Regression Models</title>
+      <link>http://localhost:1313/projects/geothermal-prediction-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/geothermal-prediction-copy/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;• Developed and deployed advanced machine learning algorithms to predict subsurface temperatures for geothermal energy
+achieving top ranked models based on Mean Absolute Error.&lt;/p&gt;
+&lt;p&gt;• Demonstrated expertise in data preprocessing, hyperparameter tuning, and model evaluation to enhance best predictions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wine Astringency Values Prediction</title>
+      <link>http://localhost:1313/projects/wine-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/wine-prediction/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;• Created a multiple linear regression model by changing dependent and independent variables to accurately predict the astringency
+values of tannin level measured by two different methods.&lt;/p&gt;
+&lt;p&gt;• Identified relationship between associated variables using hypothesis tests and correlation matrix.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
