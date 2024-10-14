@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Interactive Dashboard on Phravin Xaviour</title>
+    <link>http://localhost:1313/tags/interactive-dashboard/</link>
+    <description>Recent content in Interactive Dashboard on Phravin Xaviour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/interactive-dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Housing Price Dashboard - Tableau</title>
+      <link>http://localhost:1313/projects/housing-price---dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/housing-price---dashboard/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;• Created an interactive dashboard analyzing housing data, including daily price trends, ZIP code comparisons, and distribution of bedrooms, bathrooms, and house prices.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
